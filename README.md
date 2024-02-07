@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Clinicspots](https://www.clinicspots.com/)
 
-- 🌱 I’m currently learning **VUE,Nuxt JS**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **webdevloper0710@gmail.com**
 
