@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajveer Singh Saini and I'm a Web Developer   🖥️, from Mumbai.</h2>
+<h1 align="left">Hi 👋  My name is Rajveer and I'm a Web Developer 🖥️, from Mumbai.</h2>
 
 ###
 
@@ -51,4 +51,26 @@
   </a>
 </div>
 
+
 ###
+
+<div> <a href="https://github.com/RajveerSaini0710" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="left">Statistics</h1>
+
+###
+<div align="left">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RajveerSaini0710&theme=dark&hide_border=false)<br/>
+
+###
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajveerSaini0710&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajveerSaini0710&theme=2077" height="180em" />
+</div>
+
+
